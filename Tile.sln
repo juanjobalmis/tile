@@ -1,25 +1,34 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27004.2005
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tile", "Tile.csproj", "{C416E80F-8DF5-4394-AD7C-A86766AD0B03}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tile", "tile.csproj", "{DE656722-49A6-45EF-961D-9B73EF0BEED6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C416E80F-8DF5-4394-AD7C-A86766AD0B03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C416E80F-8DF5-4394-AD7C-A86766AD0B03}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C416E80F-8DF5-4394-AD7C-A86766AD0B03}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C416E80F-8DF5-4394-AD7C-A86766AD0B03}.Release|Any CPU.Build.0 = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3B0C1D6A-20CA-4FD7-8266-09F849424A0A}
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE656722-49A6-45EF-961D-9B73EF0BEED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE656722-49A6-45EF-961D-9B73EF0BEED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE656722-49A6-45EF-961D-9B73EF0BEED6}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{DE656722-49A6-45EF-961D-9B73EF0BEED6}.Debug|x64.Build.0 = Debug|Any CPU
+		{DE656722-49A6-45EF-961D-9B73EF0BEED6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DE656722-49A6-45EF-961D-9B73EF0BEED6}.Debug|x86.Build.0 = Debug|Any CPU
+		{DE656722-49A6-45EF-961D-9B73EF0BEED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE656722-49A6-45EF-961D-9B73EF0BEED6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE656722-49A6-45EF-961D-9B73EF0BEED6}.Release|x64.ActiveCfg = Release|Any CPU
+		{DE656722-49A6-45EF-961D-9B73EF0BEED6}.Release|x64.Build.0 = Release|Any CPU
+		{DE656722-49A6-45EF-961D-9B73EF0BEED6}.Release|x86.ActiveCfg = Release|Any CPU
+		{DE656722-49A6-45EF-961D-9B73EF0BEED6}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
